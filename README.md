@@ -13,3 +13,17 @@ The places to cover in Kedarnath are:
 
 **Bhairav Nath Temple**
 
+***
+
+##  Favorite layoff Spot:
+
+ 1. KedarnathMandir
+ 2. Gauri Kund
+ 3. Bhairav Nath Temple
+
+ ##  Favorite food:
+
+ * local food
+ * chole batore
+ * vada pav
+
