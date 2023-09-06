@@ -37,14 +37,8 @@ This table shows about the sports and time to spend on a specific sport.
 
 | Name of a sport    | Reason to recomend it |  Hours to spend     | 
 | :---        |    :----:   |          ---: |
-| Foot ball    | It is world famous sport.It increase the health and physical strength.      | 6 to 8 hours  |
-| cricket   | it is a game to concentrate game to help improve the muscle strength and good physic        | 8 to 9 hours      |
-| base ball   | It is increase the strength and running speed and hand strength.        | 6 to 7 hours      |
-| soccer   | It is increase the speed and strength and fame to get the sport        | 8 to 10 hours      |
+| Volleyball   | Volleyball can help circulate more blood, oxygen, and nutrients into the body and enhance your energy.      | 6 to 8 hours  |
+| cricket   | Cricket is a good sport for developing overall fitness, stamina and hand–eye coordination        | 8 to 9 hours      |
+| Badminton  | It is an excellent cardio workout that can improve your endurance, stamina, and cardiovascular health.        | 5 to 6 hours      |
+| Kabaddi   | It helps in toning the muscles of the legs, hands and body.  It makes us flexible.        | 6 to 8 hours      |
 
-# Favorite scientists.
----
->*The only impossible thing is that which you believe to be not possible.
-> Nambi Narayanan*
-
->*“Until man duplicates a blade of grass, nature can laugh at his so-called scientific knowledge.” – Thomas Edison*
