@@ -42,3 +42,11 @@ This table shows about the sports and time to spend on a specific sport.
 | Badminton  | It is an excellent cardio workout that can improve your endurance, stamina, and cardiovascular health.        | 5 to 6 hours      |
 | Kabaddi   | It helps in toning the muscles of the legs, hands and body.  It makes us flexible.        | 6 to 8 hours      |
 
+
+# Favorite scientists.
+---
+>*Nambi Narayanan*
+
+>Nambi Narayanan is an Indian aerospace scientist who worked for the Indian Space Research Organisation. 
+
+>As a senior official at the ISRO, he was briefly in charge of the cryogenics division. He was awarded the Padma Bhushan, India's third-highest civilian award, in March 2019.
