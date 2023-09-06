@@ -3,7 +3,7 @@
 # Varun Kumar Reddy Bhavanam
 ###### Kedarnath
 
-Kedarnath is one of the twelve Jyotirlingas of Lord Shiva. **Kedarnath Yatra is a well-known pilgrimage destination for Chota Char Dham** and home to the Kedarnath Temple. We can see a beautiful snow fall over there and we should trek for 24KMS from **Gourikund to Kedarnath** .
+Kedarnath is one of the twelve Jyotirlingas of Lord Shiva. **Kedarnath Yatra is a well-known pilgrimage destination for Chota Char Dham** and home to the Kedarnath Temple. We can see a beautiful snow fall over there and we should trek for 24KMS from .**Gourikund to Kedarnath** .
 
 The places to cover in Kedarnath are:
 
@@ -27,3 +27,4 @@ The places to cover in Kedarnath are:
  * chole batore
  * vada pav
 
+[About me](MyStats.md)
